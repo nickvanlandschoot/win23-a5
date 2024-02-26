@@ -1,0 +1,7 @@
+insertionsort
+while j >= 0 and key < array[j]:
+while j >= 0 and key < array[j]:
+left = [x for x in array[1:] if x < pivot]
+left = [x for x in array[1:] if x < pivot]
+pivot_index = partition(array, low, high)
+pivot_index = partition(array, low, high)
